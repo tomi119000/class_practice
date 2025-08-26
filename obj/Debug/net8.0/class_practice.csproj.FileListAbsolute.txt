@@ -1,0 +1,14 @@
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\bin\Debug\net8.0\class_practice.exe
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\bin\Debug\net8.0\class_practice.deps.json
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\bin\Debug\net8.0\class_practice.runtimeconfig.json
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\bin\Debug\net8.0\class_practice.dll
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\bin\Debug\net8.0\class_practice.pdb
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.AssemblyInfoInputs.cache
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.AssemblyInfo.cs
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.csproj.CoreCompileInputs.cache
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.dll
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\refint\class_practice.dll
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.pdb
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.genruntimeconfig.cache
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\ref\class_practice.dll
