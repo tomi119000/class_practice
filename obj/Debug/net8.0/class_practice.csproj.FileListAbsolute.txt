@@ -12,3 +12,4 @@ C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_prac
 C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.pdb
 C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.genruntimeconfig.cache
 C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\ref\class_practice.dll
+C:\Users\tomi1\iCloudDrive\Kunren_202508\Visual Studio\class_practice\class_practice\obj\Debug\net8.0\class_practice.sourcelink.json

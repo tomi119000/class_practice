@@ -64,22 +64,24 @@ namespace class_practice
         }
 
         //技をひとつ公表するメソッド
-        public void AttackInfo(int x)
+        //オーバーロードして、引数ありと引数無しの2種類作っておく
+        //引数ありのAttackInfoメソッドをvirtualメソッドにして、別のClassでオーバーライドできるようにする
+        public virtual void AttackInfo(int x)
         {
             switch(x)
             {
                 case 1:
-                    Console.WriteLine("必殺の右ストレート");
+                    Console.WriteLine("技：必殺の右ストレート");
                     break;
                 default:
-                    Console.WriteLine("渾身のタックル");
+                    Console.WriteLine("技：渾身のタックル");
                     break;
             }
         }
 
         public void AttackInfo()
         {
-            Console.WriteLine("渾身のタックル");
+            Console.WriteLine("技：渾身のタックル");
         }
     }
 }
