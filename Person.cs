@@ -79,7 +79,7 @@ namespace class_practice
             }
         }
 
-        public void AttackInfo()
+        public virtual void AttackInfo()
         {
             Console.WriteLine("技：渾身のタックル");
         }

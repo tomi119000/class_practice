@@ -25,6 +25,17 @@ namespace class_practice
             p3.InfoDisplay();
             p3.AttackInfo(99); //引数ありのAttackInfoを呼び出し
 
+            ///////////////////////////////////////////////////////////
+            // Personクラスを継承したWarriorクラスのインスタンスを生成
+            Warrior w1 = new Warrior(); //引数なしコンストラクタで生成
+            w1.InfoDisplay(); //継承したメソッドを使う
+            w1.AttackInfo(2); //オーバーライドしたメソッドを使う
+            string ikigomi = w1.Special(); //Warriorクラス独自のメソッドを使う
+            Console.WriteLine(ikigomi);
+
+            Person w2 = new Warrior("イモスケ", 800); //引数ありコンストラクタで生成
+            w2.InfoDisplay(); //継承したメソッドを使う
+            w2.AttackInfo(3); //オーバーライドしたメソッドを使う
         }
     }
 }
